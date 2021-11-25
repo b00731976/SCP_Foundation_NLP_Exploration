@@ -4,7 +4,7 @@
 
 ## Explore language patterns of the SCP Wiki
 
-### This project will attempt to find patterns in the SCP submissions of the SCP Foundation Wiki https://scp-wiki.wikidot.com/ in 3 steps. To date: 
+### This project will attempt to find patterns in the SCP submissions of the [SCP Foundation Wiki](https://scp-wiki.wikidot.com/) in 3 steps. To date: 
 
 ###### 1/ A scraping algorithm that scraps the text up to the SCP-2700 as well users ratings:
    - The website framework changes a lot the more recent the SCP submissions are. A more flexible and robust scraping algorithm will be submitted soon.
