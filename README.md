@@ -1,6 +1,6 @@
 # SCP Foundation Wiki - NLP Exploration
 
-# insert image
+![word_cloud](/images/word_cloud.png)
 
 ## Explore language patterns of the SCP Wiki
 
