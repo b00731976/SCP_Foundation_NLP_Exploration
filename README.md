@@ -11,7 +11,7 @@
    - It is easy to enrich the current and future data with the tags and the #of discusssions at least. A commit will be submitted soon
 
 ###### 2/ Pre-processing of the data and basic NLP implementations 
-   - To first structure the project, I only implemented to date basic NLP algorithms
+   - To first structure the project, I only implemented to-date basic NLP algorithms
    
 ###### 3/ An Apache Spark implementation of some NLP algorithms through John Snow Labs SparkNLP. The implementation is done with Amazon's EMR and S3
    - A tutorial will be uploaded in the coming days
