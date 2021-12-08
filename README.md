@@ -1,6 +1,6 @@
 # SCP Foundation Wiki - NLP Exploration
 
-![organ_ner](/images/orga_ner.png) ![person_ner](/images/person_ner.png)
+![orga_ner](/images/orga_ner.png)
 
 
 
