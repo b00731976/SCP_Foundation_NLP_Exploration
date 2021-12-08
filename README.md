@@ -13,6 +13,6 @@
 ###### 2/ Pre-processing of the data and basic NLP implementations 
    - To first structure the project, I only implemented to-date basic NLP algorithms
    
-###### 3/ An Apache Spark implementation of some NLP algorithms through John Snow Labs SparkNLP. The implementation is done with Amazon's EMR and S3
-   - A tutorial will be uploaded in the coming days
+###### 3/ An Apache Spark implementation of some NLP algorithms through John Snow Labs SparkNLP. The implementation is done within Databriks
+   - See https://github.com/JohnSnowLabs/spark-nlp-workshop/blob/master/tutorials/old_generation_notebooks/colab/4-%20Entity%20Recognizer%20DL.ipynb
 
