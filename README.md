@@ -1,6 +1,7 @@
 # SCP Foundation Wiki - NLP Exploration
 
-![word_cloud](/images/cloud_words.png) ![organ_ner](/images/orga_ner.png)
+![organ_ner](/images/orga_ner.png) ![person_ner](/images/person_ner.png)
+
 
 
 ## Explore language patterns of the SCP Wiki
@@ -17,3 +18,4 @@
 ###### 3/ An Apache Spark implementation of some NLP algorithms through John Snow Labs SparkNLP. The implementation is done within Databriks
    - See https://github.com/JohnSnowLabs/spark-nlp-workshop/blob/master/tutorials/old_generation_notebooks/colab/4-%20Entity%20Recognizer%20DL.ipynb
 
+![word_cloud](/images/cloud_words.png) 
